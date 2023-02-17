@@ -6,6 +6,8 @@
 #   "Enter at least 2 values, separated by spaces:"
 #   0 first second
 #   ["second", "first", 0]
+#
+# NOTE: use the `p` method to print the results, do not use `puts`
 
 p "Enter at least 2 values, separated by spaces:"
 
