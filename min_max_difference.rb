@@ -9,6 +9,8 @@
 #   lowest_number
 #   highest_number
 #   difference
+#
+# NOTE: Use the provided array (don't ask the user for a value, in this task).
 
 the_array = [12, 23, 41, 73, 19, 6]
 
