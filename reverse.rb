@@ -1,5 +1,7 @@
 # Create an Array and use the reverse method 
 # to return the array in reverse order.
+# The starting code below gathers the numbers, you
+# just need to print them in a reversed order.
 #
 # Expected output (with input "0 first second"): 
 #

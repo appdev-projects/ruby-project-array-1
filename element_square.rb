@@ -1,4 +1,5 @@
 # Print the square of the second-to-last number that the user enters.
+# The starting code below gets the numbers for you.
 # 
 # Expected output (with input "1 3 18"):
 # 
